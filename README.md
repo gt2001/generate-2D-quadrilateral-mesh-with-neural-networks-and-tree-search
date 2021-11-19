@@ -3,7 +3,7 @@ This repository contains single-threaded TreeMesh code.
 
 This is a long-term on-going project. New updates will be written here (e.g. .eps files, .pdf reports).
 
-Paper draft link (arXiv):https://arxiv.org/abs/2111.07613
+Paper draft link (arXiv): https://arxiv.org/abs/2111.07613
 
 Present performance:
 
