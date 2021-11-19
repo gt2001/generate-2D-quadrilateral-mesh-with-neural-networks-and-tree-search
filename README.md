@@ -1,5 +1,5 @@
 # generate-2D-quadrilateral-mesh-with-neural-networks-and-tree-search
-This repository contains single-threaded TreeMesh code.
+This repository contains single-threaded TreeMesh code. I'm Hua Tong, a senior student at University of Science and Technology of China, majoring in Theoretical and Applied Mechanics.
 
 This is a long-term on-going project. New updates will be written here (e.g. .eps files, .pdf reports).
 
