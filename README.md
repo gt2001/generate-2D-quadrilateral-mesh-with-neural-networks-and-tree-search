@@ -1,5 +1,5 @@
 # generate-2D-quadrilateral-mesh-with-neural-networks-and-tree-search
-I'm Hua Tong, a senior student at University of Science and Technology of China, majoring in Theoretical and Applied Mechanics. This repository contains single-threaded TreeMesh code:
+I'm Hua Tong, a senior student at University of Science and Technology of China, majoring in Theoretical and Applied Mechanics. This repository contains the single-threaded TreeMesh code:
 
 MCTS.ipynb - Monte-Carlo tree search (a brute force search algorithm)
 
