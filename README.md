@@ -14,3 +14,5 @@ Present performance:
 Pentagonal plate: 0.9106 (5.3204% better than ABAQUS: 0.8646, 1.4822% better than FreeMesh-S: 0.8973)
 
 Seed-density-changing rectangle: 0.8011 (13.8573% better than ABAQUS: 0.7036)
+
+---------- Update log ----------
