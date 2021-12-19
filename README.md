@@ -1,5 +1,5 @@
 # generate-2D-quadrilateral-mesh-with-neural-networks-and-tree-search
-I'm Hua Tong, a senior student at University of Science and Technology of China, majoring in Theoretical and Applied Mechanics. This repository contains the single-threaded TreeMesh code:
+This repository contains the single-threaded TreeMesh code:
 
 MCTS.ipynb - Monte-Carlo tree search (a brute force search algorithm)
 
@@ -23,4 +23,6 @@ Seed-density-changing rectangle: 0.8011 (13.8573% better than ABAQUS: 0.7036)
 
 11.20.2021[2]: Added an input box before launching [delete.bat] in [PPO+workers+GAE+2output.ipynb] to avoid deleting/replacing records by mistake.
 
-11.20.2021[3]: Optimized [PPO+workers+GAE+2output.ipynb] to accelerate calculation speed.
+11.20.2021[3]: Updated [MCTS.ipynb] to fit the new mechanism in [PPO+workers+GAE+2output.ipynb]
+
+11.20.2021[4]: Optimized [PPO+workers+GAE+2output.ipynb] to accelerate calculation speed.
