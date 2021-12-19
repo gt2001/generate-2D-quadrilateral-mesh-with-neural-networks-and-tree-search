@@ -17,4 +17,4 @@ Seed-density-changing rectangle: 0.8011 (13.8573% better than ABAQUS: 0.7036)
 
 ---------- Update log ----------
 
-12.19.2021: Fixed the problem in [delete.bat] that does not delete record text files every time.
+11.19.2021: Fixed the problem in [delete.bat] that does not delete record text files every time.
