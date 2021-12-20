@@ -19,10 +19,10 @@ Seed-density-changing rectangle: 0.8011 (13.8573% better than ABAQUS: 0.7036)
 
 11.19.2021: Fixed the problem in [delete.bat] that does not delete record text files every time.
 
-11.20.2021[1]: Added the force-choice mechanism in [PPO+workers+GAE+2output.ipynb] that gives the agent 2 chances to choose type 0 in an episode. This also leads to a higher search efficiency in [MCTS.ipynb].
+11.20.2021[1]: Added the force-choice mechanism in [DPPO.ipynb] that gives the agent 2 chances to choose type 0 in an episode. This also leads to a higher search efficiency in [MCTS.ipynb].
 
-11.20.2021[2]: Added an input box before launching [delete.bat] in [PPO+workers+GAE+2output.ipynb] to avoid deleting/replacing records by mistake.
+11.20.2021[2]: Added an input box before launching [delete.bat] in [DPPO.ipynb] to avoid deleting/replacing records by mistake.
 
-11.20.2021[3]: Updated [MCTS.ipynb] to fit the new mechanism in [PPO+workers+GAE+2output.ipynb]
+11.20.2021[3]: Updated [MCTS.ipynb] to fit the new mechanism in [DPPO.ipynb]
 
-11.20.2021[4]: Optimized [PPO+workers+GAE+2output.ipynb] to accelerate calculation speed.
+11.20.2021[4]: Optimized [DPPO.ipynb] to accelerate calculation speed.
