@@ -5,7 +5,7 @@ MCTS.ipynb - Monte-Carlo tree search (a brute force search algorithm)
 
 PPO+workers+GAE+2output.ipynb - Proximal Policy Optimization (a deep reinforcement learning algorithm)
 
-This is a long-term on-going project. New updates will be written here (e.g. .eps files, .pdf reports). Please do not distribute these files to other websites.
+This is a long-term on-going project. New updates will be written here (e.g. .pdf meshes, .pdf reports). Please do not distribute these files to other websites.
 
 Paper draft link (arXiv): https://arxiv.org/abs/2111.07613
 
