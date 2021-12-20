@@ -11,7 +11,7 @@ Trueseed*.txt - initial boundary coordinates
 
 delete*.bat - initialization tools
 
-——————————————————————————————————————————————————————————————————————
+——————————————————————————————————————————————————————————————————
 
 This is a long-term on-going project. New updates will be written here (e.g. code updates, .pdf meshes, and .pdf reports). Please do not distribute these files to other websites.
 
@@ -23,7 +23,7 @@ Pentagonal plate: 0.9106 (5.3204% better than ABAQUS: 0.8646, 1.4822% better tha
 
 Seed-density-changing rectangle: 0.8011 (13.8573% better than ABAQUS: 0.7036)
 
-————————————————————————————— Update log —————————————————————————————
+——————————————————————————— Update log ———————————————————————————
 
 11.19.2021: Fixed the problem in [delete.bat] that does not delete record text files every time.
 
