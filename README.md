@@ -9,8 +9,8 @@ PPO*.ipynb - Proximal Policy Optimization (a deep reinforcement learning algorit
 
 Trueseed*.txt - initial boundary coordinates
 
-1. * == 0: seed-density-changing rectangle
-2. * == 1: pentagonal plate
+1. \* == 0: seed-density-changing rectangle
+2. \* == 1: pentagonal plate
 
 delete*.bat - initialization tools
 
