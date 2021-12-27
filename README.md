@@ -45,7 +45,7 @@ XBJ 3
 3.5 5 1
 3.5 6 1
 2.5 6 1
-![alt text](https://github.com/gt2001/generate-2D-quadrilateral-mesh-with-neural-networks-and-tree-search/blob/main/nearly best meshes/Pentagonal Plate DPPO Best.pdf?raw=true)
+![alt text](https://github.com/gt2001/generate-2D-quadrilateral-mesh-with-neural-networks-and-tree-search/blob/main/123.pdf?raw=true)
 4. Open the latest version folder, and open [PPO.ipynb], scroll down to the penultimate code box that defines all hyper-parameters.
 5. R
 6. 
