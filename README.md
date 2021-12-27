@@ -26,7 +26,7 @@ At present, you can run the program on old boundaries to reappear my results in 
 1. Open the latest version folder. You need to input the new boundary (coordinates and density information) to [Coordinate.txt] and then run [Initialization.ipynb]. It will automatically generate the coordinates of all points. Currently we cannot convert .inp file, so you need to input manually.
 2. A full [Coordinate.txt] contains information of one outer boundary and many inner boundaries (only exists if there are holes). Each boundary starts with a string "XBJ" with a number. The number is 0 for the outer boundary, and it increases 1 in turn. The following lines contains coordinates of points that are on the boundary (mostly they are vertexes) and the unit length between the current and the next point. It's worth mentioning that the outer boundary points shall be clockwise, while points on inner boundaries shall be anti-clockwise. Below is an example of a rectangular boundary with three square holes:
 
-<img src = "https://github.com/gt2001/generate-2D-quadrilateral-mesh-with-neural-networks-and-tree-search/blob/main/Example.png" width = "200"\>
+<img src = "https://github.com/gt2001/generate-2D-quadrilateral-mesh-with-neural-networks-and-tree-search/blob/main/Example.png" width = "200"/>
 4. Open the latest version folder, and open [PPO.ipynb], scroll down to the penultimate code box that defines all hyper-parameters.
 5. R
 6. 
