@@ -33,7 +33,7 @@ results-ls - best meshes after laplacian smoothing and weight files after every 
 
 ## Tutorial
 
-At present, you can run the program on old boundaries to reappear my results in the paper, or run the program on new boundaries with only a few extra steps! Check out the steps below. Skip step 1, 2, and 3 if you only want to play with old boundaries.
+At present, the program supports WINDOWS system only. You can run the program on old boundaries to reappear my results in the paper, or run the program on new boundaries with only a few extra steps! Check out the steps below. Skip step 1, 2, and 3 if you only want to play with old boundaries.
  
 1. Open the latest version folder. You need to input the new boundary (coordinates and density information) to [Coordinate.txt] and then run [Initialization.ipynb]. It will automatically generate the coordinates of all points. Currently we cannot convert .inp file, so you need to input manually.
 2. A full [Coordinate.txt] contains information of one outer boundary and many inner boundaries (only exists if there are holes). Each boundary starts with a string "XBJ" with a number. The number is 0 for the outer boundary, and it increases 1 in turn. The following lines contains coordinates of points that are on the boundary (mostly they are vertexes) and the unit length between the current and the next point. It's worth mentioning that the outer boundary points shall be clockwise, while points on inner boundaries shall be anti-clockwise. The initialization program can intelligently turn the multi connected domain into a single connected domain. Below is an example of a rectangular boundary with three square holes:
