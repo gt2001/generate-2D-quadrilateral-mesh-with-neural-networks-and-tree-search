@@ -70,4 +70,4 @@ This is a long-term on-going project. New updates will be written here (e.g. cod
 
 11.28.2021[4]: Optimized [PPO.ipynb] to accelerate calculation speed and save disk space.
 
-11.28.2021[5]: Updated [MCTS.ipynb] to fit the new mechanism in [PPO.ipynb] (this version is released).
+11.30.2021[5]: Updated [MCTS.ipynb] to fit the new mechanism in [PPO.ipynb] (this version is released).
